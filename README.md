@@ -28,7 +28,7 @@ If you are not 100% confident in your skills, then we will gladly help you with 
 
 - For the fast connection use [Telegram](https://t.me/DVSynctems)
 
-- For news and announcements use [Twitter](https://twitter.com/synctems)
+- For news and announcements use [X (Twitter)](https://twitter.com/synctems)
 
 - Our blog on [Medium](https://synctems.medium.com/)
 
